@@ -1,6 +1,6 @@
 # Tips-using-Vim
 Tips Vim
-
+# Using crontab
 After opening the crontab file with crontab -e, you'll likely be in command mode.
 
 Press i to enter insert mode. You should see -- INSERT -- at the bottom of the screen.
